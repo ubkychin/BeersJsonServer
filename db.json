@@ -1,0 +1,6 @@
+[
+  {"name":"Fosters","brewery":"CUB","abv":5,"ibu":10,"amount":375,"cost":7,"open":false},
+  {"name":"Fosters2","brewery":"CUB","abv":5,"ibu":10,"amount":375,"cost":7,"open":false},
+  {"name":"Fosters3","brewery":"CUB","abv":5,"ibu":10,"amount":375,"cost":7,"open":false},
+  {"name":"SwinBeer","brewery":"Swinburne","abv":10,"ibu":10000000,"amount":650,"cost":10,"open":false}
+]
