@@ -5,6 +5,10 @@
     { "id": 3, "name":"Fosters3","brewery":"CUB","abv":5,"ibu":10,"amount":375,"cost":7,"open":false},
     { "id": 4, "name":"SwinBeer","brewery":"Swinburne","abv":10,"ibu":10000000,"amount":650,"cost":10,"open":false}
   ],
+  "People" : [
+    { "id": 1, "name":"Dirty Dave" },
+    { "id": 2, "name":"Old James" },
+   ],
   "profile": {
     "name": "ubkychin"
   }
